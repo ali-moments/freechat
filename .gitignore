@@ -161,4 +161,3 @@ cython_debug/
 
 freechat/local_settings.py
 testing/
-static/
